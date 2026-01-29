@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# The Impact of AI on the Job Market
+The article that will be discussed is: https://spectrum.ieee.org/ai-impact-on-job-market
+
+## What is Discussed / What do I Think?
+The article talks about how AI is impacting the job market. More specifically, it is discussed how those who normally would be taken entry level positions are having their jobs taken by AI, as AI is able to do those meanial tasks normally dished out to those who are just entering the Job Market. As such, the bar for entry continuously gets raised, making it more difficult for those just entering the SWE industry to get a job. I can personally relate to this feeling as I have lost count of the number of internships I have applied to, only to either get left on read or rejected. Whether or not people believe that AI actually has a positive impact, there is no denying that companies are trying to shift their goals to replace as much of their workforce as possible with AI to cut costs and "improve efficiency".
